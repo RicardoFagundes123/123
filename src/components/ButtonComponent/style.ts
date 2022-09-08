@@ -38,7 +38,7 @@ export const ButtonText = styled.Text<SpecificColor>`
 
 export const Icon = styled.Image`
   width: 20px;
-  height: 20px;
+  height: 30px;
 
   margin-right: ${theme.margins.leftRight};
 `;
